@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/bhavBains/reddit-clone/issues"
   },
-  "homepage": "https://github.com/bhavBains/reddit-clone#readme"
+  "homepage": "https://github.com/bhavBains/reddit-clone#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "knex": "^0.14.4",
+    "parcel-bundler": "^1.6.2",
+    "pg": "^7.4.1"
+  },
+  "devDependencies": {
+    "knex-logger": "^0.1.0",
+    "nodemon": "^1.17.1"
+  }
 }
